@@ -2,6 +2,7 @@ module.exports = {
 	title: 'STable - Focus on table',
 	description: 'A tool focuses on the table',
 	evergreen: true,
+	base: '/STable-doc/',
 	locales: {
 		'/en/': {
 			lang: 'English',
