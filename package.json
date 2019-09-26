@@ -1,0 +1,28 @@
+{
+  "name": "stable-doc",
+  "version": "1.0.0",
+  "description": "documents for STable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inagora/STable-doc.git"
+  },
+  "keywords": [
+    "STable",
+    "doc",
+    "documents",
+    "vue"
+  ],
+  "author": "poker, ccpang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inagora/STable-doc/issues"
+  },
+  "homepage": "https://github.com/inagora/STable-doc#readme",
+  "devDependencies": {
+    "vuepress": "^1.1.0"
+  }
+}
